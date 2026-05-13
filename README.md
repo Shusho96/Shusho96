@@ -1,6 +1,6 @@
 
 
-# Hola bienvenidos a mi perfil <img align="right" src="https://komarev.com/ghpvc/?username=b4dcat404&style=flat-square&color=blueviolet">
+# Hola bienvenidos a mi perfil 
 
 Soy programador junior en Java
 
