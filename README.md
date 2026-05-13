@@ -17,11 +17,8 @@ If you want you can visit my [portfolio](https://b4dcat404.github.io/)
 
 <img src="https://website-crimea.ru/wp-content/uploads/github/message.gif" width="300px" align="right">
 
-- 🌎 I'm from Russia / Crimea
-- 👨🏻‍💻 Love programming and gaming
-- 🧠 I like to learn something new
-- 💭 I dream of developing the IT sector in my region
-- 📧 Reach me via vitalii.redka.dev@gmail.com
+- 😁🌎 Colombia
+
 
 <br>
 <br>
